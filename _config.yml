@@ -94,7 +94,7 @@ feed:
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
-  
+
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
 meta_generator: true
@@ -127,4 +127,6 @@ theme: hexo-theme-bamboo
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:ccloveak/ccloveak.github.io.git
+  branch: master
