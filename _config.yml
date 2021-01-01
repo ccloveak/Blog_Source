@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: せいいのブログ
-subtitle: ''
-description: '拥抱生活'
+title: せいい
+subtitle: '拥抱生活'
+description: ''
 keywords:
 author: せいい
 language: zh-CN
-timezone: ''
+timezone: 'Japan'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
