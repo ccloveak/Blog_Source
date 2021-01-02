@@ -8,7 +8,8 @@ date: 2021-01-02 14:46:40
 password:
 summary: 解决mac不能通过brew安装mongodb的痛点
 tags:
-  - Docker Mongodb
+  - Docker
+  - Mongodb
 categories:
   - Backend
 ---
