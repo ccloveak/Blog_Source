@@ -23,8 +23,8 @@ categories:
 * 实时更新（想到idea了赶紧记下来）
 
 ## 已完成
-* [第三方登录(github)](../Login-with-Github)
-* [Docker起mongodb](../Start-Mongodb-with-Docker)
+* [第三方登录(github)](../login-with-github/)
+* [Docker起mongodb](../start-mongodb-with-docker/)
 
 ## 未完成
 * github提issue
