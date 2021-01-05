@@ -26,7 +26,8 @@ categories:
 ## 已完成
 * [第三方登录(github)](../login-with-github/)
 * [Docker起mongodb](../start-mongodb-with-docker/)
-* [git rebase 两种常见场景应用](../two-scenarios-with-git-rebase/)
+* [git rebase 两种常见场景](../two-scenarios-with-git-rebase/)
+* [代码优化（命名）](../code-optimization-1/)
 
 ## 未完成
 * github提issue
