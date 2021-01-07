@@ -42,11 +42,49 @@ const [_, pageStart, pageEnd, total] = contentRange.match(
 4. 合并功能一致的函数
     * 获取数据的时候可以一次性把数据都给获取了
     * 不要这个地方要"name"了获取个"name"，那个地方要"id"了再获取个"id"
+    ```javascript
+    const getMemberId = () => {
+        //do something
+    }
+    const getMemberName = () => {
+        //do something
+    }
+    ```
 
-5. 使用默认参数
+    ```javascript
+    const getMemberInfo = () => {
+        //do something
+    }
+    ```
+5. 无重复的语义清晰的变量名
+```javascript
+interface MemberTableProp {
+    members: Member[];
+    searchMembers?: (filters: Store) => Promise<void>;
+    deleteMember?: (member: Member) => Promise<void>;
+    exportMembers?: (encoding: string) => Promise<void>;
+    importMembers?: (formData: FormData, encoding: string) => Promise<void>;
+    handleChange?: (page: number, pageSize: number, filters: string, sortParam: string) => void;
+}
+```
+
+```javascript
+interface MemberTableProp {
+    members: Member[];
+    handleSearch?: (filters: Store) => Promise<void>;
+    handleDelete?: (member: Member) => Promise<void>;
+    handleExport?: (encoding: string) => Promise<void>;
+    handleImport?: (formData: FormData, encoding: string) => Promise<void>;
+    handleChange?: (page: number, pageSize: number, filters: string, sortParam: string) => void;
+}
+```
+
+6. 整体风格统一的变量名
+
+7. 使用默认参数
     * 默认参数比短路逼格更高
 
-6. [CODELF](https://github.com/unbug/codelf)
+8. [CODELF](https://github.com/unbug/codelf)
 
 ## 其他
 * 随手把注释掉的代码删掉

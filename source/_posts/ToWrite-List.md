@@ -28,6 +28,7 @@ categories:
 * [Docker起mongodb](../start-mongodb-with-docker/)
 * [git rebase 两种常见场景](../two-scenarios-with-git-rebase/)
 * [代码优化（命名）](../code-optimization-1/)
+* [代码优化（函数）](../code-optimization-2/)
 
 ## 未完成
 * github提issue
