@@ -1,5 +1,5 @@
 ---
-title: Clean Your Commits
+title: Clean Your Repo
 author: せいい
 top: false
 cover: false
@@ -13,14 +13,16 @@ summary: 向完美github提交努力💪
 ---
 
 ## 背景
-* 当初少不更事，在github建了很多repo，感觉自己很努力了
+* 当初少不更事，在github建了很多Repo，感觉自己很努力了
 * 当前的仓库有很多是fork的。很多是以 `Study_`开头的，就学了一点点就放下了。
 * 没有几个完整的项目或者完整的学习历史。
 * 下面是已经清理了一次的仓库
     * ![](cym_01.png)
-* 第二次清理github仓库
+* 第三次清理github仓库
     * 效果显著
     * ![](cym_02.png)
+* 第四次清理github仓库 🎉
+    * ![](cym_03.png)
 
 ## 清理方针
 * 清理历史的fork
