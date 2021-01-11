@@ -23,6 +23,7 @@ categories:
 
 ## 状态
 * 实时更新（想到idea了赶紧记下来）
+* 素材来源包括不限于（微博，微信，gitchat）
 
 ## 已完成
 * [第三方登录(github)](../login-with-github/)
@@ -32,6 +33,8 @@ categories:
 * [代码优化（函数）](../code-optimization-2/)
 * [优化github仓库](../clean-your-repo/)
 * [Puppeteer系列 基本api](./test-with-puppeteer-1/)
+* [前端开发基础框架](./Configure-Development-Environment-Frontend)
+* [后端开发基础框架](./configure-development-environment-backend/)
 
 ## 未完成
 * github提issue
@@ -39,7 +42,6 @@ categories:
 * 向某个开源项目提pr(antdesign)
 * ES6 `...rest` 参数使用
 * react中recaptcha使用 测试
-* ESLint+Prettier+VSCode Plugin提升写代码舒适感
 * 用jest进行单元测试几个常见用法
 * react原生拖放实现
 * nest实现简单的CURD
