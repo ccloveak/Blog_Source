@@ -5,7 +5,6 @@ top: true
 cover: false
 toc: true
 date: 2021-01-03 19:20:29
-update: 2021-01-03 21:37:00
 password:
 summary: 没事做了找个title写一下，都是踩过坑的
 tags:
@@ -19,6 +18,8 @@ categories:
 
 ## 目的
 * 把工作中，工作外学到的知识点小技巧总结一下
+* 转化成文字
+* 转化成视频
 
 ## 状态
 * 实时更新（想到idea了赶紧记下来）
@@ -30,6 +31,7 @@ categories:
 * [代码优化（命名）](../code-optimization-1/)
 * [代码优化（函数）](../code-optimization-2/)
 * [优化github仓库](../clean-your-repo/)
+* [Puppeteer系列 基本api](./test-with-puppeteer-1/)
 
 ## 未完成
 * github提issue
