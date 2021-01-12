@@ -7,7 +7,7 @@ toc: true
 tags:
   - Nest
 categories:
-  - Frontend
+  - Backend
 date: 2021-01-11 23:24:03
 summary: 一个基本的可复用的后端开发环境
 ---
