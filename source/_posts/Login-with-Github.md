@@ -1,7 +1,7 @@
 ---
 title: Login with Github
 author: せいい
-top: true
+top: false
 cover: false
 toc: true
 date: 2021-01-01 23:15:16
@@ -45,7 +45,7 @@ categories:
     ![](step2.png)
 5. 通过AccessToken获取github的用户信息  🎉完结撒花🎉
     * 发送get请求获取用户信息
-    
+
     ```javascript
     const user = await axios.get( 'https://api.github.com/user?access_token='+ AccessToken );
     ```
