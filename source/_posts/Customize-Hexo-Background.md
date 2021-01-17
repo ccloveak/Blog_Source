@@ -20,7 +20,11 @@ summary: 定制喜欢的Hexo背景
 * 关闭图片
 * 关闭动态背景
 * 安装 [canvas-nest](https://github.com/ccloveak/canvas-nest.js/blob/master/README-zh.md)
-* 拷贝 `node_modules/canvas-nest.js/dist/canvas-nest.js`
+* 拷贝 `node_modules/canvas-nest.js/dist/canvas-nest.js`。。。
 * 然后发现貌似主题内置了 canvas-nest。。。hhhhh尴尬了
 * 在主题设置里调一下canvas-nest的配置
 * 具体操作细节在这次的commit里
+
+## 小结
+* 朴素风
+* 偶尔弄弄hexo还是有点意思的嘛
