@@ -6,7 +6,7 @@ cover: false
 toc: true
 date: 2021-01-03 19:20:29
 password:
-summary: 没事做了找个title写一下，都是踩过坑的
+summary: 没事做了找个title写一下
 tags:
   - TODO
 categories:
@@ -49,3 +49,4 @@ categories:
 * 封装自己的hooks（在protable中使用）
 * 前后端实现通过邮件重置密码
 * 封装一个‘都道府県’的组件
+* docker搭react开发环境，预期是拉个镜像下来直接能开发 [参考](https://www.infoq.cn/article/7C3mGBKGrgTUZfleyPSR)
