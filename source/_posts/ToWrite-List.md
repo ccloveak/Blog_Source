@@ -10,20 +10,24 @@ summary: 没事做了找个title写一下
 tags:
   - TODO
 categories:
-  - Output
+  - メモ
 ---
 
 ## 背景
-* 我是一个莫得感情得写作机器人。
+* 我是一个莫得感情得写作机器人
 
 ## 目的
 * 把工作中，工作外学到的知识点小技巧总结一下
-* 转化成文字
-* 转化成视频
+* 把现在想学的东西记下来，就算现在不学以后还是会学的[我今天不学明天也要学！](http://news.sohu.com/20140717/n402350820.shtml)
 
 ## 状态
 * 实时更新（想到idea了赶紧记下来）
 * 素材来源包括不限于（微博，微信，gitchat）
+
+## 分类
+* Frontend
+* Backend
+* インフラ
 
 ## 已完成
 * [第三方登录(github)](../login-with-github/)
@@ -48,5 +52,26 @@ categories:
 * 封装自己的ui组件（基于antdesign）
 * 封装自己的hooks（在protable中使用）
 * 前后端实现通过邮件重置密码
-* 封装一个‘都道府県’的组件
+* 封装一个‘都道府県’的component
 * docker搭react开发环境，预期是拉个镜像下来直接能开发 [参考](https://www.infoq.cn/article/7C3mGBKGrgTUZfleyPSR)
+* webpack打包 [参考](https://time.geekbang.org/course/detail/100028901-97203)
+* ci/cd [参考1](https://time.geekbang.org/column/intro/100009701) [参考2](https://gitbook.cn/gitchat/activity/5f0c7152425b19297a0b91dc) [参考3](https://gitbook.cn/gitchat/activity/5f2e0caaf22886680664880e)
+  * docker [参考](https://weibo.com/ttarticle/p/show?id=2309404597186812838017)
+* ts [参考](https://ts.xcatliu.com/)[参考1](https://gitbook.cn/gitchat/activity/5e64555b2a44db63ee301b8e)
+* ssh config配置
+* nest
+* [next](https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/learn/)
+* material ui
+* flutter
+* [k8s](https://time.geekbang.org/column/intro/100015201)
+* [mongodb](https://time.geekbang.org/course/detail/100040001-200160)
+* storybook
+* [amplication](https://amplication.com/)
+* [write-a-programming-language-in-450-lines](https://github.com/karminski/write-a-programming-language-in-450-lines)
+* [redhat](https://www.redhat.com/zh)
+* [microservices](https://www.udemy.com/course/microservices-with-node-js-and-react/learn/)
+* [swift](https://time.geekbang.org/course/intro/100034001)
+* 爬虫 [参考](https://gitbook.cn/gitchat/activity/5e82f2bea522722020792bf0)[Node + TypeScript 实战肺炎疫情实时动态数据爬虫](https://gitbook.cn/gitchat/activity/5e383bd03f10f05c6e7957cc)
+* leetcode
+* shell [脚本化部署 Web 项目，让你的部署更加简单、轻松、优雅！](https://gitbook.cn/gitchat/activity/5e0d87c70f626b261ea342ec)
+* 推送服务 server酱
