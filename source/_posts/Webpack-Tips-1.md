@@ -19,6 +19,7 @@ summary: webpack系列学习 -- base_demo
 
 ## 学习途径
 * 极客时间 视频课程[玩转webpack](https://time.geekbang.org/course/intro/100028901)
+    * 强烈不推荐购买 这个视频课程是webpack3的 现在已经webpack5了
 * gitchat
 * 掘金
 
