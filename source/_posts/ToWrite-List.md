@@ -40,6 +40,7 @@ categories:
 * [前端开发基础框架](./Configure-Development-Environment-Frontend)
 * [后端开发基础框架](./configure-development-environment-backend/)
 * [react原生拖放实现](./React-Base-DnD/)
+* [github提issue](./How-To-Create-New-Issue/)
 
 ## 未完成
 * github提issue

@@ -6,6 +6,7 @@ cover: false
 toc: true
 tags:
   - AWS
+  - SSH
 categories:
   - インフラ
 date: 2021-02-08 02:17:54
