@@ -43,7 +43,6 @@ categories:
 * [github提issue](./How-To-Create-New-Issue/)
 
 ## 未完成
-* github提issue
 * antdesign使用(protable)
 * 向某个开源项目提pr(antdesign)
 * ES6 `...rest` 参数使用
