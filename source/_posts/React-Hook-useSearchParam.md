@@ -21,16 +21,18 @@ summary: useSearchParam使用体验
 
 ## 缺点
 * 对storybook不够友好
+* 回过头来补充一下，这个缺点可能是我的缺点，需要配置下storybook。。。
 
 ## 详细
 * 我现在取url上的参数是这么取的
+  * 用了 `query-string` ,`react-router-dom` 这两个库
+
 ```TypeScript
 const parsed = queryString.parse(location.search || '');
 const { filter: urlFilterStr } = parsed;
 const urlFilters: string = urlFilterStr ? String(urlFilterStr) : '{}';
 const formValueObj = JSON.parse(urlFilters);
 ```
-  * 用了 `query-string` ,`react-router-dom` 这两个库
 * 同事使用 `useSearchParam`实现就显得比较清爽了
 
 ```TypeScript
